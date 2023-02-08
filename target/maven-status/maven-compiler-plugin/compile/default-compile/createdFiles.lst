@@ -1,0 +1,5 @@
+com/technicalTest/products/model/Product.class
+com/technicalTest/products/exceptions/ResourceNotFoundException.class
+com/technicalTest/products/services/ProductService.class
+com/technicalTest/products/TechnicalTestApplication.class
+com/technicalTest/products/controllers/ProductController.class
